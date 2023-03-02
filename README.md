@@ -36,7 +36,7 @@ U7P4L IN
 ```
 #### Screenshots:
 
-<p align="center"><img src="name">
+<p align="center"><img src="https://github.com/U7P4L-IN/JUST-OK/blob/main/IMG_20230302_202948.jpg">
 
 
 #### Tools Languages :
