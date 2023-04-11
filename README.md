@@ -25,20 +25,16 @@ U7P4L IN
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf JUST-OK
- git clone --depth=1 https://github.com/U7P4L-IN/JUST-OK.git
+ rm -rf CHILL
+ git clone --depth=1 https://github.com/U7P4L-IN/CHILL.git
 
- cd JUST-OK
+ cd CHILL
 
  ls
 
- python JUST.py
+ python Chill.py
 ```
-#### Screenshots:
-
-<p align="center"><img src="https://github.com/U7P4L-IN/JUST-OK/blob/main/IMG_20230302_202948.jpg">
-
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=JUST-OK&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=CHILL&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
