@@ -32,7 +32,7 @@ U7P4L IN
 
  ls
 
- python Chill.py
+ python CHILL.py
 ```
 
 #### Tools Languages :
