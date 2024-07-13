@@ -79,25 +79,27 @@ cd FB-TOOLSBOX
 python fb.py
 ```
 
-<p align="center"><img src="./image/carbon.png">
+<p align="center"><img src="./data/carbon.png">
 
 <h5 align="center"><b>TERMUX</b></h5>
 
 ## Menu >
-<p align="center"><img src="./image/demo1.jpg">
+<p align="center"><img src="./data/demo1.jpg">
 
 ## Cookie log in and Feature >
-<p align="center";><img src="./image/demo2.jpg">
+<p align="center";><img src="./data/demo2.jpg">
 
-## Profile Lock and Profile Guard >
-<p align="center";><img src="./image/demo3.jpg"> 
+## Change Profile Picture and Cover >
+<p align="center";><img src="./data/demo3.jpg"> 
 
-## Change Bio or City >
-<p align="center";><img src="./image/demo4.jpg"> 
+## Profile Guard & Bio>
+<p align="center";><img src="./data/demo4.jpg"> 
 
-## Change Profile Picture and Cover > 
-<p align="center";><img src="./image/demo5.jpg"> 
-<p align="center";><img src="./image/demo6.jpg"> 
+## Change Website or City >
+<p align="center";><img src="./data/demo5.jpg"> 
+
+## Lock Profile and Logout > 
+<p align="center";><img src="./data/demo6.jpg"> 
 
 # Report bugs
 If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
@@ -129,11 +131,12 @@ sudo python3 fb.py
 ```
 <h5 align="center"><b>KALI LINUX</b></h5>
 
-<p align="center"><img src="./image/demo7.png">
-<p align="center"><img src="./image/demo8.png">
-<p align="center"><img src="./image/demo9.png">
-<p align="center"><img src="./image/demo12.png">
-<p align="center"><img src="./image/demo12.png">
+<p align="center"><img src="./data/demo7.png">
+<p align="center"><img src="./data/demo8.png">
+<p align="center"><img src="./data/demo9.png">
+<p align="center"><img src="./data/demo11.png">
+<p align="center"><img src="./data/demo12.png">
+<p align="center"><img src="./data/demo12.png">
     
 </br>
 
